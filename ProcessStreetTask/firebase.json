@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "ProcessStreetTask",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

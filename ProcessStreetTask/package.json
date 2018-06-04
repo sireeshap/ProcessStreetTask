@@ -1,0 +1,27 @@
+{
+  "name": "processstreet",
+  "version": "1.0.0",
+  "description": "screening task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0",
+    "jquery": "^3.0",
+    "angular": "^1.6.0",
+    "angular-route": "^1.6.0"
+  },
+  "devDependencies": {
+    "angular": "^1.7.0",
+    "angular-mocks": "^1.7.0",
+    "angular-ui-router": "^1.0.18",
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.2",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.2"
+  }
+}
